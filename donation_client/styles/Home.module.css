@@ -1,0 +1,16 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.table {
+  width: 700px;
+  margin-right: 3em;
+}
+.form {
+  width: 300px;
+}
